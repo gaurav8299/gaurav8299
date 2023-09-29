@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Rajput</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3k4LLjDLTFyRs0zqZyBVMd&ust=1696103831018000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDIhKXN0IEDFQAAAAAdAAAAABAE"
-
+<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHVnTWFMeW9tdU5YM05UeWZEQVBiLVJreEp1QXxBQ3Jtc0trMVNBOTdpOFhfaFpCUUgzOEVHOHlEMzU1ZUNocEY4VGVsdTVtcEZYTWZpajROcml2UHlWRlllTnRNT2dTNnpzT3dLeWU0TXg1MnlEWHFXUUFwUTM0cDd6SzFCb09ZZDVhdllMWU1jS3QzY2p3NkRKZw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav8299&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav8299" /> </p>
 
 <p align="left"> <a href="https://twitter.com/gauravr73998456" target="blank"><img src="https://img.shields.io/twitter/follow/gauravr73998456?logo=twitter&style=for-the-badge" alt="gauravr73998456" /></a> </p>
