@@ -34,7 +34,7 @@
 ```yaml
 name        : Gaurav Rajput
 role        : Backend SDE-1
-location    : Bangalore, India
+location    : Kanpur, India
 experience  : 8+ months — production backend systems @ logistics startup
 shipped     : 50+ APIs · 1,000+ daily transactions · 99.9% uptime
 education   : B.Tech CSE — Lovely Professional University (2021–2025)
@@ -218,7 +218,7 @@ Object-oriented car rental system demonstrating clean Java design principles wit
 │                                                         │
 │   📧  gauravrajput3005@gmail.com                        │
 │   🔗  linkedin.com/in/gaurav-rajput01                   │
-│   📍  Bangalore, India                                  │
+│   📍  Kanpur, India                                  │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
